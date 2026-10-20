@@ -45,12 +45,18 @@
     },
     {
       "@type": "repolex:GraphFile",
+      "repolex:graphType": "repolex",
+      "repolex:graphFilePath": "aggregate/repolex/7cf364eddb6d5b76575f5e80fb97a588c92634a1/chunk-001.nq.gz",
+      "repolex:graphFileSize": 300808
+    },
+    {
+      "@type": "repolex:GraphFile",
       "repolex:graphType": "ast",
       "repolex:graphFilePath": "aggregate/ast/7cf364eddb6d5b76575f5e80fb97a588c92634a1/chunk-001.nq.gz",
       "repolex:graphFileSize": 1460612
     }
   ],
-  "repolex:parseStatus": "ast_complete",
-  "repolex:parsedAt": "2026-10-20T23:51:23.364449+00:00",
+  "repolex:parseStatus": "parsed",
+  "repolex:parsedAt": "2026-10-20T23:53:07.386561+00:00",
   "repolex:parserVersion": "0.1.10"
 }
